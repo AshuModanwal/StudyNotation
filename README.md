@@ -1,1 +1,2 @@
-# React Router Project Starter
+Study Notation Project
+https://study-notation.netlify.app/
