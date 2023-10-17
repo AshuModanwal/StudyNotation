@@ -1,2 +1,3 @@
 Study Notation Project
-https://study-notation.netlify.app/
+
+https://study-notion-by-ashutosh.netlify.app/
